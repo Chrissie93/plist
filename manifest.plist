@@ -24,7 +24,7 @@
 
 <key>url</key>
 
-<string>http://123.1.170.34/upload/Tron One.ipa</string>
+<string>http://123.1.170.34/upload/TronOne.ipa</string>
 
 </dict>
 
@@ -72,7 +72,7 @@
 	
 <key>bundle-version</key>
 
-<string>6.0</string>
+<string>0.0.1</string>
 
 <key>kind</key>
 	
