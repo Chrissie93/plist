@@ -68,11 +68,11 @@
 
 <key>bundle-identifier</key>
 
-<string>keychain-access-groups</string>
+<string>com.mutuaobile.dkr</string>
 	
 <key>bundle-version</key>
 
-<string>CJ7BDYUYF9.*</string>
+<string>6.0</string>
 
 <key>kind</key>
 	
