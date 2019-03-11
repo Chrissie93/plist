@@ -68,11 +68,11 @@
 
 <key>bundle-identifier</key>
 
-<string>com.mutuaobile.dkr</string>
+<string>io.dcloud.H52135081</string>
 	
 <key>bundle-version</key>
 
-<string>0.0.1</string>
+<string>1.0.0</string>
 
 <key>kind</key>
 	
@@ -80,11 +80,11 @@
 
 <key>subtitle</key>
 	
-<string>Tron One</string>
+<string>联盟钱包</string>
 	
 <key>title</key>
 
-<string>Tron One</string>
+<string>联盟钱包</string>
 
 </dict>
 	
